@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ik012982i18\\source\\repos\\Bigarren ariketa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0579A8-4198-4EA6-91DC-B052D82B9CEE}|Bigarren ariketa\\Bigarren ariketa.csproj|c:\\users\\ik012982i18\\source\\repos\\bigarren ariketa\\bigarren ariketa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0579A8-4198-4EA6-91DC-B052D82B9CEE}|Bigarren ariketa\\Bigarren ariketa.csproj|solutionrelative:bigarren ariketa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0579A8-4198-4EA6-91DC-B052D82B9CEE}|Bigarren ariketa\\Bigarren ariketa.csproj|c:\\users\\ik012982i18\\source\\repos\\bigarren ariketa\\bigarren ariketa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0579A8-4198-4EA6-91DC-B052D82B9CEE}|Bigarren ariketa\\Bigarren ariketa.csproj|solutionrelative:bigarren ariketa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ik012982i18\\source\\repos\\Bigarren ariketa\\Bigarren ariketa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bigarren ariketa\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ik012982i18\\source\\repos\\Bigarren ariketa\\Bigarren ariketa\\MainWindow.xaml",
+              "RelativeToolTip": "Bigarren ariketa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-10T06:09:39.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ik012982i18\\source\\repos\\Bigarren ariketa\\Bigarren ariketa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bigarren ariketa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ik012982i18\\source\\repos\\Bigarren ariketa\\Bigarren ariketa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bigarren ariketa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:09:39.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

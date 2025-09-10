@@ -1,0 +1,20 @@
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa_MarkupCompile.cache
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa_MarkupCompile.lref
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\bin\Debug\net8.0-windows\Bigarren ariketa.exe
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\bin\Debug\net8.0-windows\Bigarren ariketa.deps.json
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\bin\Debug\net8.0-windows\Bigarren ariketa.runtimeconfig.json
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\bin\Debug\net8.0-windows\Bigarren ariketa.dll
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\bin\Debug\net8.0-windows\Bigarren ariketa.pdb
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.g.resources
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.AssemblyInfoInputs.cache
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.AssemblyInfo.cs
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.csproj.CoreCompileInputs.cache
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.dll
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\refint\Bigarren ariketa.dll
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.pdb
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\Bigarren ariketa.genruntimeconfig.cache
+C:\Users\ik012982i18\source\repos\Bigarren ariketa\Bigarren ariketa\obj\Debug\net8.0-windows\ref\Bigarren ariketa.dll

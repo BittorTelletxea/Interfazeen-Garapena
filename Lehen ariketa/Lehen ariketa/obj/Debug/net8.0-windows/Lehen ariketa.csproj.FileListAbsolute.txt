@@ -1,0 +1,20 @@
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\bin\Debug\net8.0-windows\Lehen ariketa.exe
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\bin\Debug\net8.0-windows\Lehen ariketa.deps.json
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\bin\Debug\net8.0-windows\Lehen ariketa.runtimeconfig.json
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\bin\Debug\net8.0-windows\Lehen ariketa.dll
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\bin\Debug\net8.0-windows\Lehen ariketa.pdb
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa_MarkupCompile.cache
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa_MarkupCompile.lref
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.g.resources
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.AssemblyInfoInputs.cache
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.AssemblyInfo.cs
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.csproj.CoreCompileInputs.cache
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.dll
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\refint\Lehen ariketa.dll
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.pdb
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\Lehen ariketa.genruntimeconfig.cache
+C:\Users\ik012982i18\source\repos\Lehen ariketa\Lehen ariketa\obj\Debug\net8.0-windows\ref\Lehen ariketa.dll
