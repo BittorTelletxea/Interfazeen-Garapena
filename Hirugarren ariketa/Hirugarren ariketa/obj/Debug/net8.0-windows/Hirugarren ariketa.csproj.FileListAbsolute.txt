@@ -1,0 +1,21 @@
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\bin\Debug\net8.0-windows\Hirugarren ariketa.exe
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\bin\Debug\net8.0-windows\Hirugarren ariketa.deps.json
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\bin\Debug\net8.0-windows\Hirugarren ariketa.runtimeconfig.json
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\bin\Debug\net8.0-windows\Hirugarren ariketa.dll
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\bin\Debug\net8.0-windows\Hirugarren ariketa.pdb
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa_MarkupCompile.cache
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa_MarkupCompile.lref
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.g.resources
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.AssemblyInfo.cs
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.sourcelink.json
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.dll
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\refint\Hirugarren ariketa.dll
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.pdb
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\Hirugarren ariketa.genruntimeconfig.cache
+D:\Interfazeen-Garapena\Hirugarren ariketa\Hirugarren ariketa\obj\Debug\net8.0-windows\ref\Hirugarren ariketa.dll
