@@ -1,0 +1,21 @@
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\bin\Debug\net8.0-windows\Bostgarren ariketa.exe
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\bin\Debug\net8.0-windows\Bostgarren ariketa.deps.json
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\bin\Debug\net8.0-windows\Bostgarren ariketa.runtimeconfig.json
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\bin\Debug\net8.0-windows\Bostgarren ariketa.dll
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\bin\Debug\net8.0-windows\Bostgarren ariketa.pdb
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa_MarkupCompile.cache
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa_MarkupCompile.lref
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.g.resources
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.AssemblyInfo.cs
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.sourcelink.json
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.dll
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\refint\Bostgarren ariketa.dll
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.pdb
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\Bostgarren ariketa.genruntimeconfig.cache
+D:\Interfazeen-Garapena\Bostgarren ariketa\Bostgarren ariketa\obj\Debug\net8.0-windows\ref\Bostgarren ariketa.dll

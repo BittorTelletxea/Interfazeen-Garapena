@@ -1,0 +1,21 @@
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\bin\Debug\net8.0-windows\Seigarren ariketa.exe
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\bin\Debug\net8.0-windows\Seigarren ariketa.deps.json
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\bin\Debug\net8.0-windows\Seigarren ariketa.runtimeconfig.json
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\bin\Debug\net8.0-windows\Seigarren ariketa.dll
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\bin\Debug\net8.0-windows\Seigarren ariketa.pdb
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa_MarkupCompile.cache
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa_MarkupCompile.lref
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.g.resources
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.AssemblyInfo.cs
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.sourcelink.json
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.dll
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\refint\Seigarren ariketa.dll
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.pdb
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\Seigarren ariketa.genruntimeconfig.cache
+D:\Interfazeen-Garapena\Seigarren ariketa\Seigarren ariketa\obj\Debug\net8.0-windows\ref\Seigarren ariketa.dll

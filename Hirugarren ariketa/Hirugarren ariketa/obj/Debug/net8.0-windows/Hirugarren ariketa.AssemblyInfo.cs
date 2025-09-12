@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hirugarren ariketa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd9036936a07e82e7c3cec7505836f085b1d7ce3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501fe715cb2f50bde2b95b7d528f74e95ff76874")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hirugarren ariketa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hirugarren ariketa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bostgarren ariketa/1.0.0": {
+        "runtime": {
+          "Bostgarren ariketa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bostgarren ariketa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
