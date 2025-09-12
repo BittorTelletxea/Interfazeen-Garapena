@@ -1,0 +1,21 @@
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa_MarkupCompile.cache
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa_MarkupCompile.lref
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\bin\Debug\net8.0-windows\Zazpigarren ariketa.exe
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\bin\Debug\net8.0-windows\Zazpigarren ariketa.deps.json
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\bin\Debug\net8.0-windows\Zazpigarren ariketa.runtimeconfig.json
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\bin\Debug\net8.0-windows\Zazpigarren ariketa.dll
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\bin\Debug\net8.0-windows\Zazpigarren ariketa.pdb
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.g.resources
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.AssemblyInfo.cs
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.sourcelink.json
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.dll
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\refint\Zazpigarren ariketa.dll
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.pdb
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\Zazpigarren ariketa.genruntimeconfig.cache
+D:\Interfazeen-Garapena\Zazpigarren ariketa\Zazpigarren ariketa\obj\Debug\net8.0-windows\ref\Zazpigarren ariketa.dll
