@@ -11,22 +11,22 @@
         <Button x:Name="zortzi" Content="8" HorizontalAlignment="Left" Margin="339,152,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
         <Button x:Name="zazpi" Content="7" HorizontalAlignment="Left" Margin="275,152,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
         <Button x:Name="bederatzi" Content="9" HorizontalAlignment="Left" Margin="400,152,0,0" VerticalAlignment="Top" Height="40" Width="46"  Click="numeros_click"/>
-        <Button x:Name="c" Content="C" HorizontalAlignment="Left" Margin="496,152,0,0" VerticalAlignment="Top" Height="40" Width="46" Click="c_Click"/>
-        <Button x:Name="ce" Content="CE" HorizontalAlignment="Left" Margin="547,152,0,0" VerticalAlignment="Top" Height="40" Width="46" Click="ce_Click"/>
-        <Button x:Name="lau" Content="4" HorizontalAlignment="Left" Margin="275,0,0,0" VerticalAlignment="Center" Height="40" Width="45"  Click="numeros_click"/>
-        <Button x:Name="bost" Content="5" HorizontalAlignment="Left" Margin="339,0,0,0" VerticalAlignment="Center" Height="40" Width="45"  Click="numeros_click"/>
-        <Button x:Name="sei" Content="6" HorizontalAlignment="Left" Margin="401,0,0,0" VerticalAlignment="Center" Height="40" Width="45"  Click="numeros_click"/>
-        <Button x:Name="barra" Content="/" HorizontalAlignment="Left" Margin="496,0,0,0" VerticalAlignment="Center" Height="40" Width="45" Click="operadoreak_click"/>
-        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" Margin="548,0,0,0" VerticalAlignment="Center" Height="40" Width="45" Click="operadoreak_click"/>
-        <Button x:Name="bat" Content="1" HorizontalAlignment="Left" Margin="275,242,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
-        <Button x:Name="bi" Content="2" HorizontalAlignment="Left" Margin="339,242,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
-        <Button x:Name="hiru" Content="3" HorizontalAlignment="Left" Margin="401,242,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
-        <Button x:Name="x" Content="X" HorizontalAlignment="Left" Margin="496,242,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="operadoreak_click"/>
-        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" Margin="548,242,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="operadoreak_click"/>
-        <Button x:Name="zero" Content="0" HorizontalAlignment="Left" Margin="275,287,0,0" VerticalAlignment="Top" Height="40" Width="109" Click="numeros_click"/>
-        <Button x:Name="punto" Content="," HorizontalAlignment="Left" Margin="400,287,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
-        <Button x:Name="berdin" Content="=" HorizontalAlignment="Left" Margin="496,287,0,0" VerticalAlignment="Top" Height="40" Width="45" RenderTransformOrigin="4.834,3.244" Click="operazioa"/>
-        <Button x:Name="porcentaje" Content="%" HorizontalAlignment="Left" Margin="548,287,0,0" VerticalAlignment="Top" Height="40" Width="45"/>
+        <Button x:Name="c" Content="C" HorizontalAlignment="Left" Margin="495,142,0,0" VerticalAlignment="Top" Height="40" Width="46" Click="c_Click"/>
+        <Button x:Name="ce" Content="CE" HorizontalAlignment="Left" Margin="582,142,0,0" VerticalAlignment="Top" Height="40" Width="46" Click="ce_Click"/>
+        <Button x:Name="lau" Content="4" HorizontalAlignment="Left" Margin="275,207,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
+        <Button x:Name="bost" Content="5" HorizontalAlignment="Left" Margin="339,212,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
+        <Button x:Name="sei" Content="6" HorizontalAlignment="Left" Margin="401,212,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
+        <Button x:Name="barra" Content="/" HorizontalAlignment="Left" Margin="496,207,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="operadoreak_click" RenderTransformOrigin="0.563,-0.451"/>
+        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" Margin="582,207,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="operadoreak_click"/>
+        <Button x:Name="bat" Content="1" HorizontalAlignment="Left" Margin="275,262,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
+        <Button x:Name="bi" Content="2" HorizontalAlignment="Left" Margin="339,262,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
+        <Button x:Name="hiru" Content="3" HorizontalAlignment="Left" Margin="400,262,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="numeros_click"/>
+        <Button x:Name="x" Content="X" HorizontalAlignment="Left" Margin="496,262,0,0" VerticalAlignment="Top" Height="40" Width="45" Click="operadoreak_click"/>
+        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" Margin="582,262,0,0" VerticalAlignment="Top" Height="40" Width="46" Click="operadoreak_click"/>
+        <Button x:Name="zero" Content="0" HorizontalAlignment="Left" Margin="275,323,0,0" VerticalAlignment="Top" Height="40" Width="109" Click="numeros_click"/>
+        <Button x:Name="punto" Content="," HorizontalAlignment="Left" Margin="400,323,0,0" VerticalAlignment="Top" Height="40" Width="45"  Click="numeros_click"/>
+        <Button x:Name="berdin" Content="=" HorizontalAlignment="Left" Margin="496,323,0,0" VerticalAlignment="Top" Height="40" Width="45" RenderTransformOrigin="4.834,3.244" Click="operazioa"/>
+        <Button x:Name="porcentaje" Content="%" HorizontalAlignment="Left" Margin="583,323,0,0" VerticalAlignment="Top" Height="40" Width="45"   Click="operadoreak_click"/>
 
     </Grid>
 </Window>

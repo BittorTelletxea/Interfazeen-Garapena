@@ -28,6 +28,7 @@ namespace Zazpigarren_ariketa
         double[] zenbakiak = new double[2];
         String operadore_hautatua = "";
         Boolean puntua_dago = false;
+        Boolean zenbaki_bat_dago = false;
 
         private void numeros_click(object sender, RoutedEventArgs e)
         {
@@ -39,10 +40,22 @@ namespace Zazpigarren_ariketa
             }
             if (puntua_dago) { 
                 pantalla.Text += zenbakia.Content.ToString();
+                zenbaki_bat_dago = true;
+            }
+            else if (pantalla.Text == "0")
+            {
+                pantalla.Text = zenbakia.Content.ToString();
+                zenbaki_bat_dago = true;
+            }
+            else if (zenbaki_bat_dago)
+            {
+                pantalla.Text += zenbakia.Content.ToString();
             }
             else
             {
                 pantalla.Text = zenbakia.Content.ToString();
+                zenbaki_bat_dago = true;
+
 
             }
 
@@ -53,7 +66,7 @@ namespace Zazpigarren_ariketa
             puntua_dago = false;
             zenbakiak[0] = double.Parse(pantalla.Text);
             operadore_hautatua = operadorea.Content.ToString();
-            pantalla.Text = operadore_hautatua;
+            pantalla.Text = "";
 
         }
         private void operazioa(Object sender, RoutedEventArgs e)
@@ -66,20 +79,24 @@ namespace Zazpigarren_ariketa
             switch(operador)
             {
                 case "+":
-                    pantalla.Clear();
                     pantalla.Text = (zenbaki1 + zenbaki2).ToString();
+                    zenbaki_bat_dago = false;
                     break;
                 case "-":
-                    pantalla.Clear();
                     pantalla.Text = (zenbaki1 - zenbaki2).ToString();
+                    zenbaki_bat_dago = false;
                     break;
                 case "X":
-                    pantalla.Clear();
                     pantalla.Text = (zenbaki1 * zenbaki2).ToString();
+                    zenbaki_bat_dago = false;
                     break;
                 case "/":
-                    pantalla.Clear();
                     pantalla.Text = (zenbaki1 / zenbaki2).ToString();
+                    zenbaki_bat_dago = false;
+                    break;
+                case "%":
+                    pantalla.Text = (zenbaki1 % zenbaki2).ToString();
+                    zenbaki_bat_dago = false;
                     break;
             }
 
@@ -88,13 +105,19 @@ namespace Zazpigarren_ariketa
 
         private void c_Click(object sender, RoutedEventArgs e)
         {
+            
             pantalla.Text = "0";
+            zenbakiak[0] = 0;
+            zenbakiak[1] = 0;
+            operadore_hautatua = "";
+
             puntua_dago = false;
+
         }
 
         private void ce_Click(object sender, RoutedEventArgs e)
         {
-            pantalla.Clear();
+            pantalla.Text = "0";
             puntua_dago = false;
         }
     }
