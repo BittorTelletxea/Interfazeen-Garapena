@@ -1,0 +1,26 @@
+﻿<Window x:Class="_8.Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8.Ariketa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Ahora" HorizontalAlignment="Left" Margin="242,88,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Hoy" HorizontalAlignment="Left" Margin="255,134,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Hora de Hoy" HorizontalAlignment="Left" Margin="194,181,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Suma de Fechas" HorizontalAlignment="Left" Margin="170,228,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Diferencia de Fechas" HorizontalAlignment="Left" Margin="139,278,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" Height="27" Margin="315,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="ahora" HorizontalAlignment="Left" Height="27" Margin="315,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" />
+        <TextBox x:Name="hoy" HorizontalAlignment="Left" Height="27" Margin="315,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="hora" HorizontalAlignment="Left" Height="27" Margin="315,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" />
+        <TextBox x:Name="suma" HorizontalAlignment="Left" Height="27" Margin="315,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" />
+        <TextBox x:Name="diferencia" HorizontalAlignment="Left" Height="27" Margin="315,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <Button Content="Ejecutar" HorizontalAlignment="Left" Margin="245,344,0,0" VerticalAlignment="Top" Height="29" Width="80" Click="ejecutar"/>
+        <Button Content="Limpiar" HorizontalAlignment="Left" Margin="343,344,0,0" VerticalAlignment="Top" Height="29" Width="80" RenderTransformOrigin="1.422,0.968"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="443,344,0,0" VerticalAlignment="Top" Height="29" Width="80"/>
+
+    </Grid>
+</Window>
