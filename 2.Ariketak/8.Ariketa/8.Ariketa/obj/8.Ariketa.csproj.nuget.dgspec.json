@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Interfazeen-Garapena\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj": {}
+    "D:\\Interfazeen-Garapena\\2.Ariketak\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj": {}
   },
   "projects": {
-    "D:\\Interfazeen-Garapena\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj": {
+    "D:\\Interfazeen-Garapena\\2.Ariketak\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Interfazeen-Garapena\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj",
+        "projectUniqueName": "D:\\Interfazeen-Garapena\\2.Ariketak\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj",
         "projectName": "8.Ariketa",
-        "projectPath": "D:\\Interfazeen-Garapena\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj",
+        "projectPath": "D:\\Interfazeen-Garapena\\2.Ariketak\\8.Ariketa\\8.Ariketa\\8.Ariketa.csproj",
         "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
-        "outputPath": "D:\\Interfazeen-Garapena\\8.Ariketa\\8.Ariketa\\obj\\",
+        "outputPath": "D:\\Interfazeen-Garapena\\2.Ariketak\\8.Ariketa\\8.Ariketa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

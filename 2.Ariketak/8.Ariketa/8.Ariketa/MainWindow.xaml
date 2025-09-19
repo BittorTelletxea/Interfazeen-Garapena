@@ -19,8 +19,8 @@
         <TextBox x:Name="suma" HorizontalAlignment="Left" Height="27" Margin="315,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" />
         <TextBox x:Name="diferencia" HorizontalAlignment="Left" Height="27" Margin="315,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
         <Button Content="Ejecutar" HorizontalAlignment="Left" Margin="245,344,0,0" VerticalAlignment="Top" Height="29" Width="80" Click="ejecutar"/>
-        <Button Content="Limpiar" HorizontalAlignment="Left" Margin="343,344,0,0" VerticalAlignment="Top" Height="29" Width="80" RenderTransformOrigin="1.422,0.968"/>
-        <Button Content="Salir" HorizontalAlignment="Left" Margin="443,344,0,0" VerticalAlignment="Top" Height="29" Width="80"/>
+        <Button Content="Limpiar" HorizontalAlignment="Left" Margin="343,344,0,0" VerticalAlignment="Top" Height="29" Width="80" RenderTransformOrigin="1.422,0.968" Click="Button_Click"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="443,344,0,0" VerticalAlignment="Top" Height="29" Width="80" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
