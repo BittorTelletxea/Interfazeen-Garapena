@@ -1,0 +1,4 @@
+D:\Interfazeen-Garapena\3.Ariketak\11.Ariketa\11.Ariketa\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\3.Ariketak\11.Ariketa\11.Ariketa\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\3.Ariketak\11.Ariketa\11.Ariketa\obj\Debug\net8.0-windows\11.Ariketa_MarkupCompile.cache
+D:\Interfazeen-Garapena\3.Ariketak\11.Ariketa\11.Ariketa\obj\Debug\net8.0-windows\11.Ariketa_MarkupCompile.lref

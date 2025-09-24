@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>_10.Ariketa</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image1.jpg" />
+    <None Remove="image2.jpg" />
+    <None Remove="image3.jpg" />
+    <None Remove="image4.jpg" />
+    <None Remove="image5.jpg" />
+    <None Remove="image6.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image1.jpg" />
+    <Resource Include="image2.jpg" />
+    <Resource Include="image3.jpg" />
+    <Resource Include="image4.jpg" />
+    <Resource Include="image5.jpg" />
+    <Resource Include="image6.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="_10.Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10.Ariketa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="346,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="179" FontSize="24" FontWeight="Bold"><Run Language="es-es" Text="MIS IMAGENES"/></TextBlock>
+        <Label Content="1ªFila" HorizontalAlignment="Left" Margin="96,130,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="combo" HorizontalAlignment="Left" Margin="96,174,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.538,-0.08" SelectionChanged="combo_SelectionChanged">
+            <ComboBoxItem x:Name="imagen1Combo" Content="Imagen 1"/>
+            <ComboBoxItem x:Name="imagen2Combo" Content="Imagen 2"/>
+            <ComboBoxItem x:Name="imagen3Combo" Content="Imagen 3"/>
+        </ComboBox>
+        <Label Content="1ªFila" HorizontalAlignment="Left" Margin="96,217,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="imagen4check" Content="Imagen 4" HorizontalAlignment="Left" Margin="96,259,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.398,0.644" Checked="Checked" Unchecked="Uncheck"/>
+        <CheckBox x:Name="imagen5check" Content="Imagen 5" HorizontalAlignment="Left" Margin="96,293,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.398,0.644" Checked="Checked" Unchecked="Uncheck"/>
+        <CheckBox x:Name="imagen6check" Content="Imagen 6" HorizontalAlignment="Left" Margin="96,325,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.398,0.644" Checked="Checked" Unchecked="Uncheck"/>
+        <Image x:Name="imagen1" HorizontalAlignment="Left" Height="100" Margin="304,156,0,0" VerticalAlignment="Top" Width="100" Source="/image1.jpg" Visibility="Hidden"  />
+        <Image x:Name="imagen2" HorizontalAlignment="Left" Height="100" Margin="422,156,0,0" VerticalAlignment="Top" Width="100" Source="/image2.jpg" Visibility="Hidden"/>
+        <Image x:Name="imagen3" HorizontalAlignment="Left" Height="100" Margin="540,156,0,0" VerticalAlignment="Top" Width="100" Source="/image3.jpg" Visibility="Hidden"/>
+        <Image x:Name="imagen4" HorizontalAlignment="Left" Height="100" Margin="304,274,0,0" VerticalAlignment="Top" Width="100" Source="/image4.jpg" Visibility="Hidden"/>
+        <Image x:Name="imagen5" HorizontalAlignment="Left" Height="100" Margin="422,274,0,0" VerticalAlignment="Top" Width="100" Source="/image5.jpg" Visibility="Hidden"/>
+        <Image x:Name="imagen6" HorizontalAlignment="Left" Height="100" Margin="540,274,0,0" VerticalAlignment="Top" Width="100" Source="/image6.jpg"  Visibility="Hidden"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="656,354,0,0" VerticalAlignment="Top" Height="30" Width="104" Click="Button_Click" RenderTransformOrigin="0.64,0.607"/>
+
+    </Grid>
+</Window>
