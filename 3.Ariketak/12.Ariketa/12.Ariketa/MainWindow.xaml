@@ -1,0 +1,33 @@
+﻿<Window x:Class="_12.Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_12.Ariketa"
+        mc:Ignorable="d"
+        PreviewKeyDown="Form1_KeyDown"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Label Content="Dietas" HorizontalAlignment="Left" Margin="94,83,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Viajes" HorizontalAlignment="Left" Margin="334,83,0,0" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="1.33,0.546"/>
+        <Label Content="Trabajo" HorizontalAlignment="Left" Margin="551,83,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <CheckBox x:Name="desayuno" Content="Desayuno" HorizontalAlignment="Left" Margin="94,135,0,0" VerticalAlignment="Top"  TabIndex="1"/>
+        <CheckBox x:Name="comida" Content="Comida" HorizontalAlignment="Left" Margin="94,169,0,0" VerticalAlignment="Top" TabIndex="2"/>
+        <CheckBox x:Name="cena" Content="Cena" HorizontalAlignment="Left" Margin="94,202,0,0" VerticalAlignment="Top" TabIndex="3"/>
+        <Label Content="KM" HorizontalAlignment="Left" Margin="293,129,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.196,0.969"/>
+        <Label Content="Horas" HorizontalAlignment="Left" Margin="293,163,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.196,0.969"/>
+        <TextBox x:Name="kilometros" HorizontalAlignment="Center" Margin="0,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TabIndex="4"/>
+        <TextBox x:Name="horas_viajes" HorizontalAlignment="Center" Margin="0,167,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TabIndex="5"/>
+        <Label Content="Horas" HorizontalAlignment="Left" Margin="551,128,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.196,0.969"/>
+        <TextBox x:Name="horas_trabajo" HorizontalAlignment="Left" Margin="597,133,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" TabIndex="6" TextChanged="horas_trabajo_TextChanged"/>
+        <TextBox x:Name="total_dietas" HorizontalAlignment="Left" Margin="94,268,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" IsReadOnly="True" IsTabStop="False" />
+        <TextBox x:Name="total_viajes" HorizontalAlignment="Center" Margin="0,268,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" IsReadOnly="True" IsTabStop="False"/>
+        <TextBox x:Name="total_trabajo" HorizontalAlignment="Left" Margin="597,268,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" IsReadOnly="True" IsTabStop="False"/>
+        <Label Content="TOTAL" HorizontalAlignment="Left" Margin="469,323,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="total" HorizontalAlignment="Left" Margin="571,323,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Height="34"  Background="#FF8CA8EC" IsTabStop="False" />
+        <Button x:Name="limpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="94,357,0,0" VerticalAlignment="Top" Height="32" Width="94" TabIndex="11" Click="limpiar_Click"/>
+        <Button x:Name="salir" Content="Salir" HorizontalAlignment="Left" Margin="219,357,0,0" VerticalAlignment="Top" Height="32" Width="94" TabIndex="12" Click="salir_Click"/>
+
+    </Grid>
+</Window>

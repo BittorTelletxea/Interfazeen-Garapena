@@ -36,8 +36,33 @@ namespace _11.Ariketa
             else
             {
                 User user = new User(nombreText, apellido1Text, apellido2Text, dniText);
+                MessageBox.Show("Datos guardados correctamente. ");
             }
 
+        }
+
+        private void cargar_Click(object sender, RoutedEventArgs e)
+        {
+            String nombreText = nombre.Text;
+            String apellido1Text = apellido1.Text;
+            String apellido2Text = apellido2.Text;
+            String dniText = dni.Text;
+
+            if (dni.GetLineLength(0) != 9)
+            {
+                MessageBox.Show("El DNI debe tener 9 caracteres.");
+                return;
+            }
+            else
+            {
+                User user = new User(nombreText, apellido1Text, apellido2Text, dniText);
+                MessageBox.Show(user.Mostrar());
+            }
+        }
+
+        private void salir_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }

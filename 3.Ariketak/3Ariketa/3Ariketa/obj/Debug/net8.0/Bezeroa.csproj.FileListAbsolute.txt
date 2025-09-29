@@ -1,0 +1,15 @@
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\bin\Debug\net8.0\Bezeroa.exe
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\bin\Debug\net8.0\Bezeroa.deps.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\bin\Debug\net8.0\Bezeroa.runtimeconfig.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\bin\Debug\net8.0\Bezeroa.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\bin\Debug\net8.0\Bezeroa.pdb
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.AssemblyInfo.cs
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.sourcelink.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\refint\Bezeroa.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.pdb
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\Bezeroa.genruntimeconfig.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\3Ariketa\obj\Debug\net8.0\ref\Bezeroa.dll

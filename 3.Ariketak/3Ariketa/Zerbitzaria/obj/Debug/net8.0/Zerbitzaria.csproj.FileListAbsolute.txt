@@ -1,0 +1,15 @@
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.exe
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.deps.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.runtimeconfig.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\bin\Debug\net8.0\Zerbitzaria.pdb
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.AssemblyInfo.cs
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.sourcelink.json
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\refint\Zerbitzaria.dll
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.pdb
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\Zerbitzaria.genruntimeconfig.cache
+D:\Interfazeen-Garapena\3.Ariketak\3Ariketa\Zerbitzaria\obj\Debug\net8.0\ref\Zerbitzaria.dll
