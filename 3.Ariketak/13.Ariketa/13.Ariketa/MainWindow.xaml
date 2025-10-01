@@ -1,0 +1,38 @@
+﻿<Window x:Class="_13.Ariketa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_13.Ariketa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Artxibatzea">
+                <MenuItem Header="Irten" Click="Exit_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Editatzea">
+                <MenuItem Header="_Moztu" Command="Cut" InputGestureText="Ctrl+X"/>
+                <MenuItem Header="_Kopiatu" Command="Copy" InputGestureText="Ctrl+C"/>
+                <MenuItem Header="_Itsatsi" Command="Paste" InputGestureText="Ctrl+V"/>
+                <MenuItem Header="_Ezabatu" Click="Delete_Click" InputGestureText="Supr"/>
+            </MenuItem>
+
+            <MenuItem Header="_Iturria">
+                <MenuItem Header="Arial" Click="Arial_Click"/>
+                <MenuItem Header="Courier" Click="Courier_Click"/>
+                <MenuItem Header="Impact" Click="Impact_Click"/>
+                <MenuItem Header="Symbol" Click="Symbol_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <TextBox x:Name="txtEditor" 
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 FontFamily="Arial"
+                 FontSize="14"
+                 TextWrapping="Wrap"/>
+    </DockPanel>
+</Window>
