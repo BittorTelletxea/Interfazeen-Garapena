@@ -59,12 +59,29 @@ namespace _12.Ariketa
 
                 }else if((seleccion as FrameworkElement)?.Name == "horas_viajes")
                 {
+                    if (string.IsNullOrEmpty(kilometros.Text))
+                    {
+                        kilometros.Text = "0";
+                    }
+
+                    if (string.IsNullOrEmpty(horas_viajes.Text))
+                    {
+                        horas_viajes.Text = "0";
+                    }
+
                     double totalKilometros = double.Parse(kilometros.Text) * 0.25;
                     double totalHoras = double.Parse(horas_viajes.Text) * 18;
                     total_viajes.Text = (totalKilometros + totalHoras).ToString();
 
-                }else if((seleccion as FrameworkElement)?.Name == "horas_trabajo")
+
+
+                }
+                else if((seleccion as FrameworkElement)?.Name == "horas_trabajo")
                 {
+                    if (string.IsNullOrEmpty(horas_trabajo.Text))
+                    {
+                        horas_trabajo.Text = "0";
+                    }
                     double totalTrabajo = double.Parse(horas_trabajo.Text) * 42;
 
                     double totalDietas = double.Parse(total_dietas.Text);

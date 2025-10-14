@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tareas>
+  <Tarea id="63fa6a85-8460-4c9f-8d34-dff0a8864f0f">
+    <Titulua>Interfazeen garapeneko 2. ariketa</Titulua>
+    <Lehentasuna>Ertaina</Lehentasuna>
+    <AzkenEguna>2025-10-10</AzkenEguna>
+    <Egina>true</Egina>
+  </Tarea>
+  <Tarea id="48b41985-43e9-453c-bf38-a571fc75e43a">
+    <Titulua>Interfazeen garapeneko 2. ariketa</Titulua>
+    <Lehentasuna>Ertaina</Lehentasuna>
+    <AzkenEguna>2025-10-10</AzkenEguna>
+    <Egina>false</Egina>
+  </Tarea>
+</Tareas>

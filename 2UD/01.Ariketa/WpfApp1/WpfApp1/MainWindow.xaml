@@ -1,0 +1,46 @@
+﻿<Window x:Class="AtazaKudeatzailea.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ataza Kudeatzailea" Height="450" Width="700">
+
+    <DockPanel Margin="10">
+
+        <DataGrid x:Name="AtazaZerrenda" AutoGenerateColumns="False" CanUserAddRows="False"
+                  ItemsSource="{Binding Atazak}" SelectionMode="Single" Margin="0,0,0,10"
+                  DockPanel.Dock="Top" IsReadOnly="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Izenburua" Binding="{Binding Titulua, Mode=TwoWay}" Width="*"/>
+                <DataGridComboBoxColumn Header="Lehentasuna" SelectedItemBinding="{Binding Lehentasuna, Mode=TwoWay}" Width="100">
+                    <DataGridComboBoxColumn.ItemsSource>
+                        <x:Array Type="{x:Type sys:String}" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                            <sys:String>Baxua</sys:String>
+                            <sys:String>Ertaina</sys:String>
+                            <sys:String>Handia</sys:String>
+                        </x:Array>
+                    </DataGridComboBoxColumn.ItemsSource>
+                </DataGridComboBoxColumn>
+                <DataGridTemplateColumn Header="Muga-eguna" Width="120">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding AzkenEguna, StringFormat=d}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding AzkenEguna, Mode=TwoWay}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridCheckBoxColumn Header="Eginda" Binding="{Binding Egina, Mode=TwoWay}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" DockPanel.Dock="Bottom">
+            <Button Content="Berria" Width="80" Height="25" Margin="5,0" Click="Gehitu_Click"/>
+            <Button Content="Editatu" Width="80" Height="25" Margin="5,0" Click="Editatu_Click"/>
+            <Button Content="Ezabatu" Width="80" Height="25" Margin="5,0" Click="Ezabatu_Click"/>
+            <Button Content="Irten" Width="80" Height="25" Margin="5,0" Click="Irten_Click"/>
+        </StackPanel>
+
+    </DockPanel>
+</Window>

@@ -56,7 +56,7 @@ namespace _11.Ariketa
             else
             {
                 User user = new User(nombreText, apellido1Text, apellido2Text, dniText);
-                MessageBox.Show(user.Mostrar());
+                MessageBox.Show("Bienvenido al sistema \n " + nombreText + "  " + dniText + "\n " + apellido1Text + "\n " + apellido2Text);
             }
         }
 
