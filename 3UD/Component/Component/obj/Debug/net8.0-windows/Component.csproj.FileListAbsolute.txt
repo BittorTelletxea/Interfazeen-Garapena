@@ -1,0 +1,4 @@
+D:\Interfazeen-Garapena\3UD\Component\Component\obj\Debug\net8.0-windows\Component_MarkupCompile.cache
+D:\Interfazeen-Garapena\3UD\Component\Component\obj\Debug\net8.0-windows\Component.csproj.AssemblyReference.cache
+D:\Interfazeen-Garapena\3UD\Component\Component\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\3UD\Component\Component\obj\Debug\net8.0-windows\Component_MarkupCompile.lref

@@ -1,0 +1,17 @@
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\bin\Debug\net8.0-windows\MyComponent1.deps.json
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\bin\Debug\net8.0-windows\MyComponent1.dll
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\bin\Debug\net8.0-windows\MyComponent1.pdb
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\Window1.g.cs
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1_MarkupCompile.cache
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1_MarkupCompile.lref
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\Window1.baml
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.g.resources
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.AssemblyInfoInputs.cache
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.AssemblyInfo.cs
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.csproj.CoreCompileInputs.cache
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.sourcelink.json
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.dll
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\refint\MyComponent1.dll
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\MyComponent1.pdb
+D:\Interfazeen-Garapena\3UD\Component\MyComponent1\obj\Debug\net8.0-windows\ref\MyComponent1.dll

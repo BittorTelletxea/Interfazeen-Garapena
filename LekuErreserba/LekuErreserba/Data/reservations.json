@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Autobusa",
+    "Transport": 0,
+    "Seats": [
+      {
+        "Id": 1,
+        "Label": "1",
+        "Status": 0
+      },
+      {
+        "Id": 2,
+        "Label": "2",
+        "Status": 0
+      }
+    ]
+  },
+  {
+    "Name": "Trena",
+    "Transport": 1,
+    "Seats": [
+      {
+        "Id": 1,
+        "Label": "1",
+        "Status": 0
+      },
+      {
+        "Id": 2,
+        "Label": "2",
+        "Status": 1
+      }
+    ]
+  }
+]

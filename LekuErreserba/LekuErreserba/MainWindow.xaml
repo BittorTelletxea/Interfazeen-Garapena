@@ -1,0 +1,18 @@
+﻿<Window x:Class="LekuErreserba.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:components="clr-amespace:LekuErreserba.View.Components"
+        Title="Reserva de Asientos" Height="600" Width="800">
+
+    <DockPanel>
+        <!-- Botones de zona -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Autobusa" Margin="5"/>
+            <Button Content="Trena" Margin="5"/>
+            <Button Content="Hegazkina" Margin="5"/>
+        </StackPanel>
+
+        <!-- Tu UserControl -->
+        <components:SeatMapControl x:Name="SeatMapView"/>
+    </DockPanel>
+</Window>

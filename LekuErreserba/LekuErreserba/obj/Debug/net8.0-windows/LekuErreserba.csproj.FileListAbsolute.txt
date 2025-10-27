@@ -1,0 +1,7 @@
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\View\Components\SeatMapControl.g.cs
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\LekuErreserba_MarkupCompile.cache
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\LekuErreserba_MarkupCompile.lref
+D:\Interfazeen-Garapena\LekuErreserba\LekuErreserba\obj\Debug\net8.0-windows\View\Components\SeatMapControl.baml
