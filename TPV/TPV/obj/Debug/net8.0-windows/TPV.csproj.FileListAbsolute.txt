@@ -1,0 +1,15 @@
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\TPV.csproj.AssemblyReference.cache
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\ProductDialog.baml
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\StockView.baml
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\MainView.baml
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\AdminPanel.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\ProductDialog.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\StockView.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\MainView.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\TPV_MarkupCompile.cache
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\TPV_MarkupCompile.lref
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\NavMenu.baml
+D:\Interfazeen-Garapena\TPV\TPV\obj\Debug\net8.0-windows\Views\Components\NavMenu.g.cs
