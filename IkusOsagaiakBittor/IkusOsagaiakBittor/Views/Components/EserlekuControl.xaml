@@ -1,0 +1,70 @@
+<UserControl x:Class="3UDBittor.Views.Components.EserlekuControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:models="clr-namespace:3UDBittor.Models"
+             x:Name="Root"
+             MinHeight="200" MinWidth="400">
+
+    <UserControl.Resources>
+        <SolidColorBrush x:Key="AvailableBrush" Color="#3498DB"/>
+        <SolidColorBrush x:Key="SelectedBrush" Color="#F1C40F"/>
+        <SolidColorBrush x:Key="ReservedBrush" Color="#95A5A6"/>
+        <SolidColorBrush x:Key="HoverBrush" Color="#5DADE2"/>
+    </UserControl.Resources>
+
+    <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+        <ItemsControl ItemsSource="{Binding Seats, ElementName=Root}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Columns="{Binding Columns, ElementName=Root}" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+
+            <ItemsControl.ItemTemplate>
+                <DataTemplate DataType="{x:Type models:Seat}">
+                    <Button Content="{Binding Id}"
+                            Margin="6"
+                            Padding="12"
+                            ToolTip="{Binding Status}"
+                            Command="{Binding SeatClickCommand, ElementName=Root}"
+                            CommandParameter="{Binding}"
+                            BorderThickness="0"
+                            FontWeight="Bold"
+                            Foreground="White"
+                            Cursor="Hand"
+                            RenderTransformOrigin="0.5,0.5">
+
+                        <Button.RenderTransform>
+                            <ScaleTransform ScaleX="1" ScaleY="1"/>
+                        </Button.RenderTransform>
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="{StaticResource AvailableBrush}" />
+                                <Style.Triggers>
+                                    <!-- Hover effect -->
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="{StaticResource HoverBrush}"/>
+                                        <Setter Property="RenderTransform">
+                                            <Setter.Value>
+                                                <ScaleTransform ScaleX="1.1" ScaleY="1.1"/>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+
+                                    <DataTrigger Binding="{Binding Status}" Value="Selected">
+                                        <Setter Property="Background" Value="{StaticResource SelectedBrush}"/>
+                                    </DataTrigger>
+
+                                    <DataTrigger Binding="{Binding Status}" Value="Reserved">
+                                        <Setter Property="Background" Value="{StaticResource ReservedBrush}"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </ScrollViewer>
+</UserControl>

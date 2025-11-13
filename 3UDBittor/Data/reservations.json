@@ -1,0 +1,82 @@
+{
+  "Bus": {
+    "Name": "Bus",
+    "Seats": [
+      {
+        "Id": "B01",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B02",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B03",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B04",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B05",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B06",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B07",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B08",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B09",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B10",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B11",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B12",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B13",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B14",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B15",
+        "Status": 0,
+        "ReservedFor": null
+      }
+    ]
+  }
+}

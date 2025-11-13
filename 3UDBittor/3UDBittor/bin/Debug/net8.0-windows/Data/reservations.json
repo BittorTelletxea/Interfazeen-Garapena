@@ -1,0 +1,317 @@
+{
+  "Bus": {
+    "Name": "Bus",
+    "Seats": [
+      {
+        "Id": "B01",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B02",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B03",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:33:48.4167568+01:00"
+      },
+      {
+        "Id": "B04",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B05",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:40:15.7929265+01:00"
+      },
+      {
+        "Id": "B06",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B07",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:38:28.688134+01:00"
+      },
+      {
+        "Id": "B08",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:35:13.617206+01:00"
+      },
+      {
+        "Id": "B09",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B10",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:33:48.4226+01:00"
+      },
+      {
+        "Id": "B11",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B12",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:45:08.8448319+01:00"
+      },
+      {
+        "Id": "B13",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B14",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "B15",
+        "Status": 0,
+        "ReservedFor": null
+      }
+    ]
+  },
+  "Train": {
+    "Name": "Train",
+    "Seats": [
+      {
+        "Id": "T01",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T02",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T03",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T04",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T05",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T06",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T07",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T08",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T09",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T10",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T11",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T12",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T13",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T14",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T15",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T16",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T17",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T18",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:38:37.2246836+01:00"
+      },
+      {
+        "Id": "T19",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "T20",
+        "Status": 0,
+        "ReservedFor": null
+      }
+    ]
+  },
+  "Airplane": {
+    "Name": "Airplane",
+    "Seats": [
+      {
+        "Id": "A01",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A02",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A03",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A04",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A05",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A06",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A07",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A08",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A09",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A10",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A11",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A12",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A13",
+        "Status": 2,
+        "ReservedFor": "2025-11-13T09:38:45.7838992+01:00"
+      },
+      {
+        "Id": "A14",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A15",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A16",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A17",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A18",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A19",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A20",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A21",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A22",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A23",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A24",
+        "Status": 0,
+        "ReservedFor": null
+      },
+      {
+        "Id": "A25",
+        "Status": 0,
+        "ReservedFor": null
+      }
+    ]
+  }
+}

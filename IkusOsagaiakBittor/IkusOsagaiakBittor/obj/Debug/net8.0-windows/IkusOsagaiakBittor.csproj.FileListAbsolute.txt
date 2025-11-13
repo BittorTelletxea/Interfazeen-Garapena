@@ -1,0 +1,6 @@
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\Views\Components\EserlekuControl.g.cs
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\IkusOsagaiakBittor_MarkupCompile.cache
+D:\Interfazeen-Garapena\IkusOsagaiakBittor\IkusOsagaiakBittor\obj\Debug\net8.0-windows\IkusOsagaiakBittor_MarkupCompile.lref

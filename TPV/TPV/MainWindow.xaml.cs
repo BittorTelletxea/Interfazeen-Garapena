@@ -23,7 +23,7 @@ namespace TPV
                 return;
             }
 
-            string connectionString = "Host=localhost;Port=5432;Database=tpvdb;Username=tpvadmin;Password=tpv1234";
+            string connectionString = "Host=localhost;Port=5432;Database=tpv;Username=tpv;Password=tpv";
 
             try
             {
@@ -42,12 +42,22 @@ namespace TPV
                     string role = result.ToString();
                     MessageBox.Show($"✅ Login successful! Role: {role}");
 
-                    
-                    AdminPanel adminView = new AdminPanel();
-                    adminView.Show();
-                   
+                    if(role == "Admin")
+                    {
+                        AdminPanel adminView = new AdminPanel();
+                        adminView.Show();
+                    }
+                    else
+                    {
+                        ErreserbaPanel mainView = new ErreserbaPanel();
+                        mainView.Show();
+                    }
 
-                    this.Close();
+
+
+
+
+                        this.Close();
                 }
                 else
                 {

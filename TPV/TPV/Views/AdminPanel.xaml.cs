@@ -1,5 +1,5 @@
 ﻿using System.Windows;
-using TPV.Views.Components;
+using TPV.Components;
 
 namespace TPV.Views
 {
