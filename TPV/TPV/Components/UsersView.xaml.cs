@@ -48,7 +48,6 @@ namespace TPV.Components
             }
         }
 
-        // Añadir usuario como fila editable
         private void Add_Click(object sender, RoutedEventArgs e)
         {
             var dialog = new UserDialog();
@@ -75,7 +74,6 @@ namespace TPV.Components
             }
         }
 
-        // Eliminar usuario seleccionado
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
             if (dgUsers.SelectedItem is User selected)
@@ -102,10 +100,8 @@ namespace TPV.Components
             }
         }
 
-        // Refrescar tabla
         private void Refresh_Click(object sender, RoutedEventArgs e) => LoadUsers();
 
-        // Guardar cambios al terminar de editar una celda
 
         private void Edit_Click(object sender, RoutedEventArgs e)
         {

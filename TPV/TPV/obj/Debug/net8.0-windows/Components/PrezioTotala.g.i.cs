@@ -60,7 +60,7 @@ namespace TPV.Components {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TPV;V1.0.0.0;component/components/preziototala.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TPV;component/components/preziototala.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Components\PrezioTotala.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

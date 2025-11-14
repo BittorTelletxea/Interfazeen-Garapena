@@ -76,7 +76,7 @@ namespace TPV.Components {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TPV;V1.0.0.0;component/components/productdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TPV;component/components/productdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Components\ProductDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

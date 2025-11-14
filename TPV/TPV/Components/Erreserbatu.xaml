@@ -10,11 +10,6 @@
         <Label Content="Ordua:"/>
         <TextBox x:Name="txtOrdua"/>
 
-        <Label Content="Mota:"/>
-        <ComboBox Width="120" x:Name="bazkariCombo"  SelectedIndex="0">
-            <ComboBoxItem Content="Bazkaria"/>
-            <ComboBoxItem Content="Afaria"/>
-        </ComboBox>
 
         <Label Content="Pertsonak:"/>
         <TextBox x:Name="txtPertsonak"/>

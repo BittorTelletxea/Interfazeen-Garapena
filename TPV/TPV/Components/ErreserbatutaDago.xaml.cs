@@ -12,14 +12,14 @@ namespace TPV.Components
         {
             InitializeComponent();
         }
-        public ErreserbatutaDago(string izena, string ordua, Boolean mota, string pertsonak)
+        public ErreserbatutaDago(string izena, string ordua, string eguna, string pertsonak)
         {
             InitializeComponent();
 
             txtizena.Content = $"{izena}";
             txtordua.Content = $"{ordua}";
-            txtmota.Content = $"{mota}";
             txtpertsonak.Content = $"{pertsonak}";
+            txteguna.Content = $"{eguna}";
 
             
         }
@@ -28,6 +28,11 @@ namespace TPV.Components
         {
             DialogResult = false;
 
+        }
+
+        private void Button_Click(object sender, System.Windows.RoutedEventArgs e)
+        {
+            DialogResult = true;
         }
     }
 }

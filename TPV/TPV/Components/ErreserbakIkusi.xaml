@@ -3,12 +3,29 @@
                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                  xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="TPV.Components.ErreserbakIkusi"
                  Background="#f5f5f5"
-                 Padding="10" Width="604" Height="395">
+                 Padding="10" Width="604" Height="563">
 	    <StackPanel>
             
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
-            <Button Content="Bazkaria" Width="100" Margin="5" Click="kargatuBazkariak"/>
-            <Button Content="Afaria" Width="100" Margin="5" Click="loadAfariak"/>
+            <Button x:Name="btnBazkaria" Content="Bazkaria" Width="100" Margin="5" Click="kargatuBazkariak"/>
+            <Button x:Name="btnAfaria" Content="Afaria" Width="100" Margin="5" Click="loadAfariak"/>
+
+            <Button x:Name="btnAukeratuData" Margin="5"            Content="Aukeratu data"
+            Width="150"
+            Click="btnAukeratuData_Click" />
+
+                <Popup x:Name="popupKalendarioa"
+           PlacementTarget="{Binding ElementName=btnAukeratuData}"
+           StaysOpen="False">
+
+                    <Border Background="White" BorderBrush="Black" BorderThickness="1">
+                        <Calendar x:Name="eguna"
+                      SelectedDatesChanged="eguna_SelectedDatesChanged" />
+                    </Border>
+
+                </Popup>
+
+
         </StackPanel>
 
         <ScrollViewer VerticalScrollBarVisibility="Auto">
@@ -26,8 +43,8 @@
 
 			    </UniformGrid>
 		    </ScrollViewer>
-        
 
-        </StackPanel>
+
+    </StackPanel>
 
     </UserControl>

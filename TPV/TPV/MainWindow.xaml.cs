@@ -49,7 +49,7 @@ namespace TPV
                     }
                     else
                     {
-                        ErreserbaPanel mainView = new ErreserbaPanel();
+                        MainView mainView = new MainView();
                         mainView.Show();
                     }
 

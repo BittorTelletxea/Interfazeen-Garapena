@@ -3,80 +3,136 @@
   "WorkspaceRootPath": "D:\\Interfazeen-Garapena\\TPV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbakikusi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbakikusi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbakikusi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbakikusi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\stockview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\stockview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\navmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\navmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\erreserbapanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\erreserbapanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\erreserbapanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\erreserbapanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\navmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\navmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\stockview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\stockview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\userdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\userdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\preziototala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\preziototala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\stockview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\stockview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\userdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\userdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\tickerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\tickerprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\calculatorcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\calculatorcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productselecter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productselecter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productsgridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productsgridcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productsgridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productsgridcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\productselecter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\productselecter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\preziototala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\preziototala.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\preziototala.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\preziototala.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\navmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\navmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\navmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\navmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbakikusi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbakikusi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbakikusi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbakikusi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\calculatorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\calculatorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\erreserbapanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\erreserbapanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\views\\erreserbapanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\erreserbapanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatutadago.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatutadago.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|d:\\interfazeen-garapena\\tpv\\tpv\\components\\erreserbatu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B564289C-7760-4EFB-9F14-C046FFFBB518}|TPV\\TPV.csproj|solutionrelative:tpv\\components\\erreserbatu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,73 +142,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErreserbakIkusi.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml.cs",
-              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbakIkusi.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml.cs*",
-              "RelativeToolTip": "TPV\\Components\\ErreserbakIkusi.xaml.cs*",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAAwKgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ProductSelecter.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductSelecter.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\ProductSelecter.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductSelecter.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\ProductSelecter.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:32:04.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T09:54:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TickerPrinter.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\TickerPrinter.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\TickerPrinter.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\TickerPrinter.cs",
+              "RelativeToolTip": "TPV\\Components\\TickerPrinter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0YAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:56:19.553Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "StockView.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\StockView.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\StockView.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:37:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StockView.xaml",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml",
               "RelativeDocumentMoniker": "TPV\\Components\\StockView.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml",
-              "RelativeToolTip": "TPV\\Components\\StockView.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml*",
+              "RelativeToolTip": "TPV\\Components\\StockView.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-12T12:45:24.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErreserbakIkusi.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbakIkusi.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml",
-              "RelativeToolTip": "TPV\\Components\\ErreserbakIkusi.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T12:32:39.941Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "CalculatorControl.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\CalculatorControl.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\CalculatorControl.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\CalculatorControl.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\CalculatorControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:08:38.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "UserDialog.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UserDialog.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\UserDialog.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UserDialog.xaml",
+              "RelativeToolTip": "TPV\\Components\\UserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T10:25:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErreserbatutaDago.xaml.cs",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml.cs",
               "RelativeDocumentMoniker": "TPV\\Components\\ErreserbatutaDago.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml.cs*",
-              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T13:14:58.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Erreserbatu.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\Erreserbatu.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml",
-              "RelativeToolTip": "TPV\\Components\\Erreserbatu.xaml",
+              "DocumentIndex": 1,
+              "Title": "UsersView.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UsersView.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\UsersView.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UsersView.xaml",
+              "RelativeToolTip": "TPV\\Components\\UsersView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T12:39:29.678Z",
+              "WhenOpened": "2025-11-14T10:25:24.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "UsersView.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UsersView.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\UsersView.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UsersView.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\UsersView.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwHYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:25:32.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserDialog.xaml.cs",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\UserDialog.xaml.cs",
               "RelativeDocumentMoniker": "TPV\\Components\\UserDialog.xaml.cs",
@@ -160,70 +264,23 @@
               "RelativeToolTip": "TPV\\Components\\UserDialog.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:48:29.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavMenu.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\NavMenu.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\NavMenu.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\NavMenu.xaml",
-              "RelativeToolTip": "TPV\\Components\\NavMenu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T12:39:27.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Erreserbatu.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml.cs",
-              "RelativeDocumentMoniker": "TPV\\Components\\Erreserbatu.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml.cs",
-              "RelativeToolTip": "TPV\\Components\\Erreserbatu.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:33:59.545Z",
+              "WhenOpened": "2025-11-12T12:48:29.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErreserbatutaDago.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbatutaDago.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
-              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T13:18:42.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErreserbatutaDago.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbatutaDago.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
-              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T13:18:40.031Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ErreserbaPanel.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\ErreserbaPanel.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml.cs",
-              "RelativeToolTip": "TPV\\Views\\ErreserbaPanel.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:00:47.507Z"
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ProductDialog.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductDialog.xaml",
+              "RelativeToolTip": "TPV\\Components\\ProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:34:16.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ProductDialog.xaml.cs",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductDialog.xaml.cs",
               "RelativeDocumentMoniker": "TPV\\Components\\ProductDialog.xaml.cs",
@@ -232,6 +289,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T12:34:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsGridControl.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductsGridControl.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\ProductsGridControl.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductsGridControl.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\ProductsGridControl.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:01:23.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductSelecter.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductSelecter.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ProductSelecter.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductSelecter.xaml",
+              "RelativeToolTip": "TPV\\Components\\ProductSelecter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T09:55:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsGridControl.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductsGridControl.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ProductsGridControl.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductsGridControl.xaml",
+              "RelativeToolTip": "TPV\\Components\\ProductsGridControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T10:25:03.013Z"
             },
             {
               "$type": "Document",
@@ -247,30 +338,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StockView.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml.cs",
-              "RelativeDocumentMoniker": "TPV\\Components\\StockView.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\StockView.xaml.cs",
-              "RelativeToolTip": "TPV\\Components\\StockView.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:37:47.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErreserbaPanel.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml",
-              "RelativeDocumentMoniker": "TPV\\Views\\ErreserbaPanel.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml",
-              "RelativeToolTip": "TPV\\Views\\ErreserbaPanel.xaml",
+              "DocumentIndex": 16,
+              "Title": "PrezioTotala.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\PrezioTotala.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\PrezioTotala.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\PrezioTotala.xaml",
+              "RelativeToolTip": "TPV\\Components\\PrezioTotala.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T13:00:49.311Z"
+              "WhenOpened": "2025-11-14T10:24:51.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "NavMenu.xaml.cs",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\NavMenu.xaml.cs",
               "RelativeDocumentMoniker": "TPV\\Components\\NavMenu.xaml.cs",
@@ -282,7 +361,166 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
+              "Title": "NavMenu.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\NavMenu.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\NavMenu.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\NavMenu.xaml",
+              "RelativeToolTip": "TPV\\Components\\NavMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:39:27.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErreserbatutaDago.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbatutaDago.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
+              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T13:18:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Erreserbatu.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\Erreserbatu.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\Erreserbatu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:33:59.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Erreserbatu.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\Erreserbatu.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml",
+              "RelativeToolTip": "TPV\\Components\\Erreserbatu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:39:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErreserbakIkusi.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbakIkusi.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml.cs",
+              "RelativeToolTip": "TPV\\Components\\ErreserbakIkusi.xaml.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAnwMwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:32:04.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErreserbakIkusi.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbakIkusi.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbakIkusi.xaml",
+              "RelativeToolTip": "TPV\\Components\\ErreserbakIkusi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:32:39.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CalculatorControl.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\CalculatorControl.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\CalculatorControl.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\CalculatorControl.xaml",
+              "RelativeToolTip": "TPV\\Components\\CalculatorControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T10:24:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "TPV\\Views\\MainView.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\MainView.xaml",
+              "RelativeToolTip": "TPV\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T09:46:01.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TPV\\MainWindow.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml",
+              "RelativeToolTip": "TPV\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T09:48:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\MainView.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "TPV\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:45:57.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErreserbaPanel.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml",
+              "RelativeDocumentMoniker": "TPV\\Views\\ErreserbaPanel.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml",
+              "RelativeToolTip": "TPV\\Views\\ErreserbaPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T13:00:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TPV\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:31:34.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErreserbaPanel.xaml.cs",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\ErreserbaPanel.xaml.cs",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Views\\ErreserbaPanel.xaml.cs",
+              "RelativeToolTip": "TPV\\Views\\ErreserbaPanel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:00:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErreserbatutaDago.xaml",
+              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
+              "RelativeDocumentMoniker": "TPV\\Components\\ErreserbatutaDago.xaml",
+              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ErreserbatutaDago.xaml",
+              "RelativeToolTip": "TPV\\Components\\ErreserbatutaDago.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T13:18:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Erreserbatu.xaml",
               "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\Erreserbatu.xaml",
               "RelativeDocumentMoniker": "TPV\\Components\\Erreserbatu.xaml",
@@ -290,29 +528,6 @@
               "RelativeToolTip": "TPV\\Components\\Erreserbatu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-12T12:39:25.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDialog.xaml",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductDialog.xaml",
-              "RelativeDocumentMoniker": "TPV\\Components\\ProductDialog.xaml",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\Components\\ProductDialog.xaml",
-              "RelativeToolTip": "TPV\\Components\\ProductDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T12:34:16.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TPV\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Interfazeen-Garapena\\TPV\\TPV\\MainWindow.xaml.cs",
-              "RelativeToolTip": "TPV\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswDMAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:31:34.388Z"
             }
           ]
         }

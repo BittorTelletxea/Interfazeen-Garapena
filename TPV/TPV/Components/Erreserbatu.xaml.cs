@@ -13,7 +13,6 @@ namespace TPV.Components
         public string izena => txtName.Text.Trim();
         public int pertsonak => int.Parse( txtPertsonak.Text.Trim());
         public string ordua => txtOrdua.Text.Trim();
-        public string bazkaria =>bazkariCombo.SelectedItem?.ToString();
 
 
         public Erreserbatu()
@@ -23,7 +22,7 @@ namespace TPV.Components
 
         private void Save_Click(object sender, System.Windows.RoutedEventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(izena) && string.IsNullOrEmpty(ordua) )
+            if (string.IsNullOrWhiteSpace(izena) && string.IsNullOrEmpty(ordua) && pertsonak != null )
             {
                 MessageBox.Show("Sartu datuak mesedez.");
                 return;

@@ -1,5 +1,7 @@
 ﻿using System.Windows;
+using System.Windows.Media;
 using TPV.Components;
+using TPV.Services;
 
 namespace TPV.Views
 {
@@ -13,7 +15,36 @@ namespace TPV.Views
             productsGrid.ProductClicked += (name, price) => productSelecter.AddProduct(name, price);
             productSelecter.PrezioaEguneratu += (price) => prezioTotala.setPrezioa(price);
             calculadora.totalKalkul += (totala) => productSelecter.TotalaEguneratu(totala);
+            
+        }
+        private void btnTPV_Click(object sender, RoutedEventArgs e)
+        {
+            gridTPV.Visibility = Visibility.Visible;
+            gridErreserbak.Visibility = Visibility.Collapsed;
+
+            btnTPV.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#3498DB"));
+            btnErreserbak.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#BDC3C7"));
+        }
+
+        private void btnErreserbak_Click(object sender, RoutedEventArgs e)
+        {
+            gridTPV.Visibility = Visibility.Collapsed;
+            gridErreserbak.Visibility = Visibility.Visible;
+
+            btnTPV.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#BDC3C7"));
+            btnErreserbak.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#3498DB"));
+        }
+        private void BtnImprimir_Click(object sender, RoutedEventArgs e)
+        {
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string filePath = System.IO.Path.Combine(desktopPath, "Ticket.pdf");
+
+            TicketPrinter.PrintTicket(filePath, productSelecter);
+
+            MessageBox.Show($"Ticket generado en: {filePath}", "Ticket", MessageBoxButton.OK, MessageBoxImage.Information);
 
         }
+
+
     }
 }

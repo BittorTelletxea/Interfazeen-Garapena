@@ -7,7 +7,7 @@ namespace TPV.Components
     public partial class ProductSelecter : UserControl
     {
         private ObservableCollection<SelectedProduct> SelectedProducts = new();
-        public event Action <decimal> PrezioaEguneratu;
+        public event Action<decimal> PrezioaEguneratu;
         public int total = 0;
 
 
@@ -33,7 +33,7 @@ namespace TPV.Components
             lvSelectedProducts.Items.Refresh();
 
             decimal totalPrice = SelectedProducts.Sum(p => p.TotalPrice);
-            PrezioaEguneratu?.Invoke(totalPrice); 
+            PrezioaEguneratu?.Invoke(totalPrice);
         }
         public void TotalaEguneratu(int totala)
         {
@@ -48,6 +48,13 @@ namespace TPV.Components
                 PrezioaEguneratu?.Invoke(totalPrice);
             }
         }
+
+        public ObservableCollection<SelectedProduct> GetSelectedProducts()
+        {
+            return SelectedProducts;
+        }
+
+
 
     }
 

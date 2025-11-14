@@ -79,28 +79,29 @@ namespace TPV.Components
         {
             if (dgProducts.SelectedItem is Product selected)
             {
-                var dialog = new ProductDialog(selected);
-                if (dialog.ShowDialog() == true)
+                try
                 {
-                    try
-                    {
-                        using var conn = new NpgsqlConnection(connString);
-                        conn.Open();
+                    using var conn = new NpgsqlConnection(connString);
+                    conn.Open();
 
-                        string query = "UPDATE products SET name=@n, price=@p, stock=@s WHERE product_id=@id";
-                        using var cmd = new NpgsqlCommand(query, conn);
-                        cmd.Parameters.AddWithValue("@n", dialog.ProductName);
-                        cmd.Parameters.AddWithValue("@p", dialog.ProductPrice);
-                        cmd.Parameters.AddWithValue("@s", dialog.ProductStock);
-                        cmd.Parameters.AddWithValue("@id", selected.Id);
-                        cmd.ExecuteNonQuery();
+                    string query = "UPDATE products SET name=@n, price=@p, stock=@s WHERE product_id=@id";
+                    using var cmd = new NpgsqlCommand(query, conn);
+                    cmd.Parameters.AddWithValue("@n", selected.Name);
+                    cmd.Parameters.AddWithValue("@p", selected.Price);
+                    cmd.Parameters.AddWithValue("@s", selected.Stock);
+                    cmd.Parameters.AddWithValue("@id", selected.Id);
 
-                        LoadProducts();
-                    }
-                    catch (Exception ex)
+                    int rowsAffected = cmd.ExecuteNonQuery();
+                    if (rowsAffected > 0)
                     {
-                        MessageBox.Show($"Error editing product: {ex.Message}");
+                        MessageBox.Show("Producto actualizado correctamente.");
                     }
+
+                    LoadProducts();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Error actualizando producto: {ex.Message}");
                 }
             }
         }
