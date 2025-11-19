@@ -6,7 +6,7 @@
 	<StackPanel>
 		<TextBlock Text="Admin Panel" Foreground="White" FontSize="20" Margin="0,20"/>
 		<Button Content="Stock" Click="Stock_Click" Margin="5"/>
-		<Button Content="Usuarios" Click="Users_Click" Margin="5"/>
-		<Button Content="Cerrar sesión" Click="Logout_Click" Margin="5"/>
+		<Button Content="Erabiltzaileak" Click="Users_Click" Margin="5"/>
+		<Button Content="Saioa itxi" Click="Logout_Click" Margin="5"/>
 	</StackPanel>
 </UserControl>

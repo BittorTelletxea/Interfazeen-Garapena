@@ -6,7 +6,7 @@
 
 	<Border CornerRadius="10" Background="White" Padding="10" BorderBrush="#ddd" BorderThickness="1">
 		<StackPanel>
-			<TextBlock Text="Productos seleccionados"
+			<TextBlock Text="Aukeratutako produktuak"
                        FontSize="20"
                        FontWeight="Bold"
                        Foreground="#2C3E50"
@@ -15,10 +15,10 @@
 			<ListView x:Name="lvSelectedProducts" Height="200">
 				<ListView.View>
 					<GridView>
-						<GridViewColumn Header="Producto" DisplayMemberBinding="{Binding Name}" Width="150"/>
-						<GridViewColumn Header="Precio (€)" DisplayMemberBinding="{Binding Price}" Width="80"/>
+						<GridViewColumn Header="Produktua" DisplayMemberBinding="{Binding Name}" Width="150"/>
+						<GridViewColumn Header="Prezioa (€)" DisplayMemberBinding="{Binding Price}" Width="80"/>
                         <GridViewColumn Header="Kantitatea " DisplayMemberBinding="{Binding Quantity}" Width="80"/>
-                        <GridViewColumn Header="Total (€) " DisplayMemberBinding="{Binding TotalPrice}" Width="80"/>
+                        <GridViewColumn Header="Osotara " DisplayMemberBinding="{Binding TotalPrice}" Width="80"/>
 
                     </GridView>
 				</ListView.View>

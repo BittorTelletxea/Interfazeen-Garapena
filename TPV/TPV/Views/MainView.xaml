@@ -6,7 +6,6 @@
 
     <Grid Margin="0,0,0,-80">
 
-        <!-- Header con botones -->
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
             <Button x:Name="btnTPV"
                     Content="TPV"
@@ -30,7 +29,6 @@
 
         </StackPanel>
 
-        <!-- Contenido TPV -->
         <Grid x:Name="gridTPV" Margin="0,60,0,0">
             <component:CalculatorControl x:Name="calculadora" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Width="390" Height="350"/>
             <component:ProductsGridControl x:Name="productsGrid" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="350" Width="700"/>
@@ -38,7 +36,6 @@
             <component:PrezioTotala x:Name="prezioTotala" HorizontalAlignment="Left" VerticalAlignment="Top" Height="100" Width="390"/>
         </Grid>
 
-        <!-- Contenido Erreserbak (inicialmente oculto) -->
         <Grid x:Name="gridErreserbak" Margin="0,60,0,0" Visibility="Collapsed">
             <component:ErreserbakIkusi x:Name="erreserbakControl" />
         </Grid>

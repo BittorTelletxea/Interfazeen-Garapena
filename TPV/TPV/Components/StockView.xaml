@@ -13,7 +13,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="Gestión de Stock"
+        <TextBlock Text="Produktu Kudeaketa"
                    FontSize="22"
                    FontWeight="Bold"
                    Margin="0,0,0,10"/>
@@ -26,17 +26,17 @@
                   Margin="0,10,0,10">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Id}" IsReadOnly="True" Width="70"/>
-                <DataGridTextColumn Header="Nombre" Binding="{Binding Name, Mode=TwoWay}" Width="130"/>
-                <DataGridTextColumn Header="Precio (€)" Binding="{Binding Price, Mode=TwoWay}" Width="130"/>
+                <DataGridTextColumn Header="Izena" Binding="{Binding Name, Mode=TwoWay}" Width="130"/>
+                <DataGridTextColumn Header="Prezioa (€)" Binding="{Binding Price, Mode=TwoWay}" Width="130"/>
                 <DataGridTextColumn Header="Stock" Binding="{Binding Stock, Mode=TwoWay}" Width="130"/>
             </DataGrid.Columns>
         </DataGrid>
 
         <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
-            <Button Content="Añadir" Width="100" Margin="5" Click="Add_Click"/>
-            <Button Content="Editar" Width="100" Margin="5" Click="Edit_Click"/>
-            <Button Content="Eliminar" Width="100" Margin="5" Click="Delete_Click"/>
-            <Button Content="Refrescar" Width="100" Margin="5" Click="Refresh_Click"/>
+            <Button Content="Gehitu" Width="100" Margin="5" Click="Add_Click"/>
+            <Button Content="Aldatu" Width="100" Margin="5" Click="Edit_Click"/>
+            <Button Content="Ezabatu" Width="100" Margin="5" Click="Delete_Click"/>
+            <Button Content="Refresh" Width="100" Margin="5" Click="Refresh_Click"/>
         </StackPanel>
     </Grid>
 </UserControl>

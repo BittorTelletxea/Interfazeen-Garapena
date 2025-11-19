@@ -4,18 +4,18 @@
         Title="Producto" Height="250" Width="300"
         WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
     <StackPanel Margin="20">
-        <Label Content="Nombre:"/>
+        <Label Content="Izena:"/>
         <TextBox x:Name="txtName"/>
 
-        <Label Content="Contraseña:"/>
+        <Label Content="Pasahitza:"/>
 		<PasswordBox  x:Name="txtContraseña"/>
 
 		<Label Content="Rol:"/>
         <TextBox x:Name="txtRol"/>
 
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
-            <Button Content="Guardar" Width="80" Margin="5" Click="Save_Click"/>
-            <Button Content="Cancelar" Width="80" Margin="5" Click="Cancel_Click"/>
+            <Button Content="Gorde" Width="80" Margin="5" Click="Save_Click"/>
+            <Button Content="Atzera" Width="80" Margin="5" Click="Cancel_Click"/>
         </StackPanel>
     </StackPanel>
 </Window>
