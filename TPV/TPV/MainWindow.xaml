@@ -6,13 +6,77 @@
         xmlns:local="clr-namespace:TPV"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-            <Label Content="Login" HorizontalAlignment="Center" Margin="0,106,0,0" VerticalAlignment="Top" FontFamily="Corbel" FontSize="22"/>
-            <TextBox x:Name="usuario" HorizontalAlignment="Center" Margin="0,178,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
-            <PasswordBox  x:Name="contraseña" HorizontalAlignment="Center" Margin="0,217,0,0"  VerticalAlignment="Top" Width="120"/>
-            <Button x:Name="login" Content="Log In" HorizontalAlignment="Center" Margin="0,257,0,0" VerticalAlignment="Top" Click="Login_Click"/>
-            <Label Content="Usuario" HorizontalAlignment="Left" Margin="340,153,0,0" VerticalAlignment="Top" FontFamily="Corbel"/>
-            <Label Content="Contraseña" HorizontalAlignment="Left" Margin="340,196,0,0" VerticalAlignment="Top" FontFamily="Corbel"/>
 
-    </Grid>
+      <Grid>
+            <!-- Encabezado -->
+            <Label Content="Login" 
+           HorizontalAlignment="Center" 
+           VerticalAlignment="Top" 
+           Margin="0,80,0,0" 
+           FontFamily="Corbel" 
+           FontSize="28" 
+           FontWeight="Bold" 
+           Foreground="#FF333333"/>
+
+            <!-- Usuario -->
+            <Label Content="Usuario" 
+           HorizontalAlignment="Left" 
+           Margin="300,173,0,0" 
+           VerticalAlignment="Top" 
+           FontFamily="Corbel"
+           FontSize="14"
+           Foreground="#FF555555"/>
+            <TextBox x:Name="usuario" 
+             HorizontalAlignment="Center" 
+             VerticalAlignment="Top" 
+             Margin="0,200,0,0" 
+             Width="200" 
+             Height="30"
+             Padding="5"
+             FontSize="14"
+             Background="White" 
+             BorderBrush="#FFCCCCCC" 
+             BorderThickness="1" 
+             />
+
+            <!-- Contraseña -->
+            <Label Content="Contraseña" 
+           HorizontalAlignment="Left" 
+           Margin="300,233,0,0" 
+           VerticalAlignment="Top" 
+           FontFamily="Corbel"
+           FontSize="14"
+           Foreground="#FF555555"/>
+            <PasswordBox x:Name="contraseña" 
+                 HorizontalAlignment="Center" 
+                 VerticalAlignment="Top" 
+                 Margin="0,260,0,0" 
+                 Width="200" 
+                 Height="30"
+                 Padding="5"
+                 FontSize="14"
+                 Background="White" 
+                 BorderBrush="#FFCCCCCC" 
+                 BorderThickness="1" 
+               />
+
+            <Button x:Name="login" 
+            Content="Log In" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Top" 
+            Margin="0,310,0,0" 
+            Width="120" 
+            Height="35"
+            FontSize="14"
+            FontWeight="Bold"
+            Background="#FF4CAF50" 
+            Foreground="White" 
+            BorderBrush="#FF388E3C" 
+            BorderThickness="1" 
+            Click="Login_Click"
+            Cursor="Hand"/>
+
+        </Grid>
+
+
 </Window>
