@@ -1,30 +1,25 @@
-version: "3.1"
+version: '3.8'
 
 services:
-  db:
-    image: postgres:17
-    container_name: tpv_db
+  postgres:
+    image: postgres:16
+    container_name: tpv-postgres
     restart: always
     environment:
       POSTGRES_USER: tpv
       POSTGRES_PASSWORD: tpv
-      POSTGRES_DB: tpv_sistema
+      POSTGRES_DB: tpv
     ports:
       - "5432:5432"
     volumes:
-      - ./postgres_data:/var/lib/postgresql/data  
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql 
-
-  adminer:
-    image: adminer:latest
-    container_name: tpv_adminer
-    restart: always
-    ports:
-      - "8080:8080"
-    environment:
-      - ADMINER_DEFAULT_SERVER=db
-    depends_on:
-      - db
+      - pgdata:/var/lib/postgresql/data
+      - ./initdb:/docker-entrypoint-initdb.d  # Scripts SQL al iniciar
+    networks:
+      - tpv-net
 
 volumes:
-  postgres_data:
+  pgdata:
+
+networks:
+  tpv-net:
+    driver: bridge

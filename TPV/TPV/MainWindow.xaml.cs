@@ -40,7 +40,7 @@ namespace TPV
                 if (result != null)
                 {
                     string role = result.ToString();
-                    MessageBox.Show($"✅ Login successful! Role: {role}");
+                    MessageBox.Show($"Ongi Etorri! Rola: {role}");
 
                     if(role == "Admin")
                     {
@@ -61,7 +61,7 @@ namespace TPV
                 }
                 else
                 {
-                    MessageBox.Show("❌ Invalid username or password.");
+                    MessageBox.Show("Pasahitz edo Izen okerra.");
                 }
             }
             catch (Exception ex)

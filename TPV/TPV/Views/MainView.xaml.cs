@@ -15,7 +15,8 @@ namespace TPV.Views
             productsGrid.ProductClicked += (name, price) => productSelecter.AddProduct(name, price);
             productSelecter.PrezioaEguneratu += (price) => prezioTotala.setPrezioa(price);
             calculadora.totalKalkul += (totala) => productSelecter.TotalaEguneratu(totala);
-            
+            productSelecter.setTotala0 += (totala) => prezioTotala.setPrezioa(0);
+
         }
         private void btnTPV_Click(object sender, RoutedEventArgs e)
         {
@@ -36,12 +37,22 @@ namespace TPV.Views
         }
         private void BtnImprimir_Click(object sender, RoutedEventArgs e)
         {
+            productSelecter.UpdateStockFromListView();
+
+            bool ezStock = productSelecter.stockGu;
+
+            if (ezStock)
+            {
+                return;
+            }
+            else { 
             string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string filePath = System.IO.Path.Combine(desktopPath, "Ticket.pdf");
 
             TicketPrinter.PrintTicket(filePath, productSelecter);
 
             MessageBox.Show($"Ticket generado en: {filePath}", "Ticket", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
 
         }
 

@@ -8,8 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
 
       <Grid>
-            <!-- Encabezado -->
-            <Label Content="Login" 
+            <Label Content="Log In" 
            HorizontalAlignment="Center" 
            VerticalAlignment="Top" 
            Margin="0,80,0,0" 
@@ -18,8 +17,7 @@
            FontWeight="Bold" 
            Foreground="#FF333333"/>
 
-            <!-- Usuario -->
-            <Label Content="Usuario" 
+            <Label Content="Izena" 
            HorizontalAlignment="Left" 
            Margin="300,173,0,0" 
            VerticalAlignment="Top" 
@@ -39,8 +37,7 @@
              BorderThickness="1" 
              />
 
-            <!-- Contraseña -->
-            <Label Content="Contraseña" 
+            <Label Content="Pasahitza" 
            HorizontalAlignment="Left" 
            Margin="300,233,0,0" 
            VerticalAlignment="Top" 
