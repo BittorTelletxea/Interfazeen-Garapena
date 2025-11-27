@@ -22,7 +22,7 @@ namespace TPV.Components
         private void kargatuErreserbak()
         {
             bazkariada = true;
-            btnBazkaria.Background = System.Windows.Media.Brushes.LightBlue;
+            btnBazkaria.Background = System.Windows.Media.Brushes.Blue;
             btnAfaria.Background = System.Windows.Media.Brushes.LightGray;
 
             btn1.Background = System.Windows.Media.Brushes.Green;
@@ -225,7 +225,7 @@ namespace TPV.Components
         {
             bazkariada = false;
             btnBazkaria.Background = System.Windows.Media.Brushes.LightGray;
-            btnAfaria.Background = System.Windows.Media.Brushes.LightBlue;
+            btnAfaria.Background = System.Windows.Media.Brushes.Blue;
 
             btn1.Background = System.Windows.Media.Brushes.Green;
             btn2.Background = System.Windows.Media.Brushes.Green;
@@ -322,7 +322,7 @@ namespace TPV.Components
         }
 
         private void kargatuBazkariak(object sender, System.Windows.RoutedEventArgs e) {
-            btnBazkaria.Background = System.Windows.Media.Brushes.LightBlue;
+            btnBazkaria.Background = System.Windows.Media.Brushes.Blue;
             btnAfaria.Background = System.Windows.Media.Brushes.LightGray;
 
             btn1.Background = System.Windows.Media.Brushes.Green;

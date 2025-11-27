@@ -37,21 +37,24 @@ namespace TPV.Views
         }
         private void BtnImprimir_Click(object sender, RoutedEventArgs e)
         {
-            productSelecter.UpdateStockFromListView();
-
             bool ezStock = productSelecter.stockGu;
 
             if (ezStock)
             {
                 return;
             }
-            else { 
-            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string filePath = System.IO.Path.Combine(desktopPath, "Ticket.pdf");
+            else
+            {
+                string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                string filePath = System.IO.Path.Combine(desktopPath, "Ticket.pdf");
 
-            TicketPrinter.PrintTicket(filePath, productSelecter);
+                TicketPrinter.PrintTicket(filePath, productSelecter);
 
-            MessageBox.Show($"Ticket generado en: {filePath}", "Ticket", MessageBoxButton.OK, MessageBoxImage.Information);
+                MessageBox.Show($"Ticket generado en: {filePath}", "Ticket", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                productSelecter.UpdateStockFromListView();
+
+            
         }
 
         }

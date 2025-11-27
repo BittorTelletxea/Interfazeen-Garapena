@@ -6988,23 +6988,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ik012982i18\\.nuget\\packages\\": {},
+    "C:\\Users\\BittorTelletxea\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Interfazeen-Garapena\\TPV\\TPV\\TPV.csproj",
+      "projectUniqueName": "C:\\Users\\BittorTelletxea\\Desktop\\Interfazeen-Garapena\\TPV\\TPV\\TPV.csproj",
       "projectName": "TPV",
-      "projectPath": "D:\\Interfazeen-Garapena\\TPV\\TPV\\TPV.csproj",
-      "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
-      "outputPath": "D:\\Interfazeen-Garapena\\TPV\\TPV\\obj\\",
+      "projectPath": "C:\\Users\\BittorTelletxea\\Desktop\\Interfazeen-Garapena\\TPV\\TPV\\TPV.csproj",
+      "packagesPath": "C:\\Users\\BittorTelletxea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BittorTelletxea\\Desktop\\Interfazeen-Garapena\\TPV\\TPV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ik012982i18\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BittorTelletxea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7083,7 +7083,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
