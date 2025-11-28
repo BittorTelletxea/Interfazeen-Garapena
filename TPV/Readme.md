@@ -8,8 +8,4 @@ pasahitza: bittor
 
 Datu basea abiarazteko terminala Docker karpetan kokatu eta "docker-compose up -d" exekutatu.
 
-Datu basearen kredentzialak:
-Mota: Postgresql
-Erabiltzailea: tpv
-Psahitza: tpv
-Datu basea: tpv
+Datu basean aldaketak egin nahi badira, terminalean, komando hau jari "docker exec -it tpv-postgres psql -U tpv -d tpv"
