@@ -26,6 +26,8 @@
                     FontWeight="Bold"
                     Click="btnErreserbak_Click"/>
             <Button Content="Tiket-a inprimatu" Width="150" Margin="5" Background="#E67E22" Foreground="White" Click="BtnImprimir_Click"/>
+            <Button Content="Saioa Itxi" Width="150" Margin="5" Background="Red" Foreground="White" Click="Button_Click"/>
+
 
         </StackPanel>
 

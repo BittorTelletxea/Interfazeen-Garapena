@@ -59,6 +59,11 @@ namespace TPV.Views
 
         }
 
-
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow loginWindow = new MainWindow();
+            loginWindow.Show();
+            Application.Current.Windows[0].Close();
+        }
     }
 }
