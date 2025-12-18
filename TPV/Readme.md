@@ -6,6 +6,6 @@ Erabiltzaile arrunta:
 erabiltzailea: bittor
 pasahitza: bittor
 
-Datu basea abiarazteko terminala Docker karpetan kokatu eta "docker-compose up -d" exekutatu. Aplikazioaren Login-ean errorea ematen badu, terminalean, "docker-compose down -v" exekutatu
+Datu basea abiarazteko terminala Docker karpetan kokatu eta "docker-compose up -d" exekutatu. Aplikazioaren Login-ean errorea ematen badu, terminalean, "docker-compose down -v" exekutatu eta ondoren "docker-compose up -d"
 
 Datu basean aldaketak egin nahi badira, terminalean, komando hau jarri "docker exec -it tpv-postgres psql -U tpv -d tpv"
